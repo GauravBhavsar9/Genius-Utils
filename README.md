@@ -7,4 +7,4 @@ This Application Was Developed On React Platform .
 --> Character Counting 
 --> Remove Extra Spaces 
 --> Convert To Upper Case .
---> Convert The Text To Lower Case .
+--> Convert The Text To Lower Case.
